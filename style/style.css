@@ -9,7 +9,7 @@
 body {
     background: var(--primary-color);
     margin: 0px auto;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 
 h1 {
@@ -30,6 +30,7 @@ img {
 p {
     color: var(--secondary-color);
     padding: 0px 50px 0px 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 h2 {
